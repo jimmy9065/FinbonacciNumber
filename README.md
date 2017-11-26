@@ -13,5 +13,5 @@ In toStr(int num), the function decide what is the final output for that number 
 
 Main.cpp
 ==
-The in the main function, test cases with n=1,2,3,4,10,20 are tested.
+In the main function, test cases with n=1,2,3,4,10,20 are tested.
 
